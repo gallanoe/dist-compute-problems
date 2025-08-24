@@ -1,5 +1,3 @@
-Love it. Here’s a fully fleshed-out, **step-by-step implementation plan** for **Project 0: RPC Key–Value Service**—kept deliberately high-level (no design or code), but specific enough so nothing important gets skipped.
-
 ---
 
 # Project 0 — RPC KV Service (Learning Sprint)
